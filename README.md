@@ -24,4 +24,13 @@ Just a 50 rupee a aux cable and smartphone.
 ![image](https://github.com/neeraj0403/IXI2020_KPN-creators/blob/master/WhatsApp%20Image%202020-02-04%20at%203.34.12%20PM.jpeg)
 
 
+### Tech Stack
+ - Android Studio
+ - TensorFlow
+ - Phython
+ - HTML
+ - CSS
+
+
+
  
